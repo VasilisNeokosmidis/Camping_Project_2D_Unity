@@ -1,0 +1,45 @@
+# --- Unity essentials (kept by default; the ! lines are optional) ---
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# --- Unity generated / runtime ---
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]ser[Ss]ettings/
+[Mm]emory[Cc]aptures/
+SysInfo.txt
+*.pidb
+*.userprefs
+
+# --- IDE & OS trash ---
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.svd
+*.suo
+.DS_Store
+Thumbs.db
+
+# Optional: keep only useful VS Code configs (uncomment if θες)
+# .vscode/*
+# !.vscode/extensions.json
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+
+# --- Unity packages / cache ---
+*.unitypackage
+/[Aa]ssets/**/StreamingAssetsCopy.meta
+
+# --- Crash/Reports ---
+*.stacktrace
+*.dmp
+*.crash
