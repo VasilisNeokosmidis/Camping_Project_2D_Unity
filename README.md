@@ -10,6 +10,7 @@
 6. Open Unity Hub and go to  Add --> Add project from disk.
 7. Add the folder of the clone repo.
 8. Open the project from Unity Hub.
+9. Go to Folder "Scenes" and double-click Scene "Camping"
 
 
 2. Unity
