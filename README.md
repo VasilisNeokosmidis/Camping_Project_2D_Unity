@@ -19,4 +19,5 @@
 
 #How to build the game#
 1. Inside Unity.
+   
 2. File -> Build And Run.
