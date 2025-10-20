@@ -15,3 +15,8 @@
 
 2. Unity
    --> Open Unity Hub --> Add --> Add project from disk --> Add the folder of the clone repo.
+
+
+#How to build the game#
+1. Inside Unity.
+2. File -> Build And Run.
